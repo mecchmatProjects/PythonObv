@@ -29,6 +29,9 @@ def f1(x,y):
 
 
 
+# add comment
+
+
 def ininterval(a,b):
 	def _mydecorator(function):
 		def __mydecorator(*args, **kw):
